@@ -18,6 +18,12 @@ public class UserController {
 	
 	/**
 	 * 注册用户
+	 *
+	 * xiugai
+	 *
+	 * 我靠卡卡卡卡卡卡卡卡
+	 *
+	 *
 	 * @return
 	 */
 	@RequestMapping("/reg")
