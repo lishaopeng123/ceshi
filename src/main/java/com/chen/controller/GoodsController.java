@@ -25,6 +25,8 @@ public class GoodsController {
 	
 	/**
 	 * 根据id查询是商品详情
+	 *
+	 * 开始工作
 	 * @param request
 	 * @return
 	 */
